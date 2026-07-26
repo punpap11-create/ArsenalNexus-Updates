@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "pck_url": "https://github.com/punpap11-create/ArsenalNexus-Updates/releases/latest/download/ArsenalNexus.pck",
+  "sha256": "1dfd51ac947c06ec04f033a51ac11d23f985ca62684e95dc1658592117e2a4ad",
+  "size": 1694892,
+  "notes": [
+    "เวอร์ชันทดสอบระบบอัปเดตครั้งแรก",
+    "เพิ่ม Passive Tree แบบลากและซูม",
+    "เพิ่ม Pause Menu และ Tactical Neon Arena"
+  ]
+}
